@@ -1,0 +1,48 @@
+const projects = [
+  {
+    id: 1,
+    name: "Television",
+    price: 4000,
+    image: "/images/tv.jpg",
+    duration: "1 year",
+    plandate: "1st May 2021",
+    duedate: "1st May 2022",
+  },
+  {
+    id: 2,
+    name: "Laptop",
+    price: 40000,
+    image: "/images/lappy.jpg",
+    duration: "2 year",
+    plandate: "1st June 2021",
+    duedate: "1st June 2023",
+  },
+  {
+    id: 3,
+    name: "Vehicle",
+    price: "4000,000",
+    image: "",
+    duration: "10 year",
+    plandate: "4st May 2022",
+    duedate: "1st May 2032",
+  },
+  {
+    id: 4,
+    name: "Land",
+    price: "4000,000",
+    image: "",
+    duration: "11 year",
+    plandate: "1st May 2021",
+    duedate: "1st May 2032",
+  },
+  {
+    id: 5,
+    name: "Business",
+    price: 4000000,
+    image: "",
+    duration: "11 year",
+    plandate: "1st May 2021",
+    duedate: "1st May 2033",
+  },
+];
+export default projects;
